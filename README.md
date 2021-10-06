@@ -1,2 +1,2 @@
 # simple_clock
- Um relógio simples de segundos até ano!
+ Um relógio simples de segundos até anos!
